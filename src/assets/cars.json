@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "mark": "GM", 
+    "model": "PRISMA",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 2,
+    "mark": "NISSAN", 
+    "model": "SUNNY",
+    "status": "RENTED"
+  },
+  {
+    "id": 3,
+    "mark": "FORD", 
+    "model": "FOCUS",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 4,
+    "mark": "TOYOTA", 
+    "model": "COROLA",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 5,
+    "mark": "GM", 
+    "model": "PRISMA",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 6,
+    "mark": "GM", 
+    "model": "PRISMA",
+    "status": "AVAILABLE"
+}
+
+
+]
